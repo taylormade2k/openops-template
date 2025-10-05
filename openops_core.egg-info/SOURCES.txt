@@ -1,0 +1,7 @@
+pyproject.toml
+openops_core/__init__.py
+openops_core/utils.py
+openops_core.egg-info/PKG-INFO
+openops_core.egg-info/SOURCES.txt
+openops_core.egg-info/dependency_links.txt
+openops_core.egg-info/top_level.txt

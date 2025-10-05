@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openops-core"
+version = "0.1.0"
+description = "Core utilities for OpenOps"
+authors = [
+    {name = "Const", email = "you@example.com"}
+]
+dependencies = []
+
+[tool.setuptools]
+packages = ["openops_core"]
